@@ -49,6 +49,7 @@ a:link, a:visited {
 	box-shadow: 0 -0.1em 0 #3D9EF1 inset;	
 }
 
+
 a:hover {
 	text-decoration: none;
   	transition: 0.4s; 
